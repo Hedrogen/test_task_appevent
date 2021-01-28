@@ -22,7 +22,7 @@ API:
 1. Склонировать репозиторий
 2. Создать и подключится к виртуальному окружению
 2. Прописать:
-    <br>2.1 pip3 freeze<requirements.txt
+    <br>2.1 pip3 freeze -r requirements.txt
     <br>2.2 python manage.py migrate
     <br>2.3 python manage.py crontab add 
 3. Запустить при помощи python manage.py runserver
